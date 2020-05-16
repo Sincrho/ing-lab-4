@@ -18,3 +18,10 @@ otra version la aplicacion larga un error al hacer el pull request don de me mue
 abro visual studio para resolverlo aceptando el Incoming Change para quedarme con la linea que queria.
 
 En la carpeta ejercicios 6 esta la captura de que complete los ejercicios de la pagina.
+
+Tp2:
+En la carpeta lab 4 2 estan subidas las fotos del docker corriendo con las 2 instancias de app , el phpmyadmin corriendo , los vinos agregados en la tabla wines y el comando para agregar nano.
+
+La carpeta db contiene la copia local que se hizo para mantener los datos persistentes.
+
+La carpeta trabajo practico 2 tiene el docker-compose modificado que permite toda la funcionalidad anteriormente dicha.
