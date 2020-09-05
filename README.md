@@ -27,4 +27,8 @@ La carpeta db contiene la copia local que se hizo para mantener los datos persis
 La carpeta trabajo practico 2 tiene el docker-compose modificado que permite toda la funcionalidad anteriormente dicha.
 
 Tp3:
-Subo la prueba de frontend con Svelte utilizando Node.js 
+Subo la prueba de frontend con Svelte utilizando Node.js , hecho a partir de un template , se le agrego que contara la cantidad de teareas por hacer con JS y la opcion de poner un "modo oscuro".
+Referencias:
+sveltematerialui.com/
+https://jenil.github.io/bulmaswatch/
+
