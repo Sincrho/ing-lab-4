@@ -25,3 +25,6 @@ En la carpeta lab 4 2 estan subidas las fotos del docker corriendo con las 2 ins
 La carpeta db contiene la copia local que se hizo para mantener los datos persistentes.
 
 La carpeta trabajo practico 2 tiene el docker-compose modificado que permite toda la funcionalidad anteriormente dicha.
+
+Tp3:
+Subo la prueba de frontend con Svelte utilizando Node.js 
