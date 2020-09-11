@@ -32,3 +32,9 @@ Referencias:
 https://sveltematerialui.com/
 https://jenil.github.io/bulmaswatch/
 
+Tp3:
+Subo la integracion de frontend con Svelte y la API en flask
+Referencias:
+https://www.youtube.com/watch?v=APOPm01BVrk
+https://svelte.dev/repl/c62df203051345bfab6aaa4350faf8f4?version=3.20.1
+
