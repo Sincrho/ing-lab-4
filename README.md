@@ -29,6 +29,8 @@ La carpeta trabajo practico 2 tiene el docker-compose modificado que permite tod
 Tp3:
 Subo la prueba de frontend con Svelte utilizando Node.js , hecho a partir de un template , se le agrego que contara la cantidad de teareas por hacer con JS, descargar la lista en un pequeño .txt y la opcion de poner un "modo oscuro".
 Referencias:
+
+https://www.youtube.com/watch?v=RBsNhhdPH0Q
 https://sveltematerialui.com/
 https://jenil.github.io/bulmaswatch/
 
